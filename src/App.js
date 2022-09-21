@@ -8,7 +8,7 @@ function App() {
       <div className="container">
         <header className="App-header">
           <a
-            href="https://sweet-starship-3c4049.netlify.app/"
+            href="https://clever-peony-b56585.netlify.app/index.html"
             target="_blank"
             rel="noreferrer"
           >
@@ -19,7 +19,7 @@ function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://sweet-starship-3c4049.netlify.app/"
+            href="https://clever-peony-b56585.netlify.app/index.html"
             target="_blank"
             rel="noopener noreferrer"
           >
