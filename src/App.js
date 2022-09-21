@@ -7,23 +7,27 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <a href="https://www.shecodes.io/" target="_blank" rel="noreferrer">
-            <img src={logo} className="logo" alt="SheCodes Logo" />
+          <a
+            href="https://sweet-starship-3c4049.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={logo} className="logo" alt="Logo" />
           </a>
         </header>
         <Dictionary defaultKeyword="sunset" />
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.shecodes.io/"
+            href="https://sweet-starship-3c4049.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            SheCodes
+            Elena
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/shecodesio/dictionary"
+            href="https://github.com/liLenali?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -31,7 +35,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://shecodes-dictionary.netlify.app/"
+            href="https://app.netlify.com/teams/lilenali/sites"
             target="_blank"
             rel="noopener noreferrer"
           >
