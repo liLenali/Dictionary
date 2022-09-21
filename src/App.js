@@ -23,7 +23,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Elena
+            Olena Lytovchenko
           </a>{" "}
           and is{" "}
           <a
